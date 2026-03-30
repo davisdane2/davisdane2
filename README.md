@@ -1,5 +1,6 @@
-## Hi there 👋
+## current projects status and roadmaps
 
+## I'm currently working on a mouse driver for windows with @caliskate
 <!--
 **davisdane2/davisdane2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

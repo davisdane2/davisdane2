@@ -1,5 +1,7 @@
 ## current projects status and roadmaps
 
+Working on a NFL weekly friendly betting pool for the next season. I am using the codebase from phppickem and migrating it over to next.js
+
 <!--
 **davisdane2/davisdane2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
